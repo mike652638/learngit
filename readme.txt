@@ -2,3 +2,5 @@ This is the very first demo written when I was learning Git from scratch on http
 My great appreciation went to Mr. LiaoXueFeng ~
 
 Changes made on Branch "dev" ...
+
+2nd Changes made on Dev Branch then
