@@ -5,3 +5,6 @@ Changes made on Branch "dev" ...
 
 Creating a new branch is simple AND quick.
 
+Create and revise newBranch again ...
+
+
